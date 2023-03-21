@@ -1,0 +1,4 @@
+exemplo 1 
+    1. ler um nº informado pelo usuario
+    2. se nº >10 então mostre "é > q 10"
+    3. senão entao mostre "não é >10!"
